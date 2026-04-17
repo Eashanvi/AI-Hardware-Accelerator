@@ -23,6 +23,15 @@ A Verilog-based AI accelerator implementing parallel neuron computation using MA
 Inputs: x1=1, x2=2, x3=3
 Outputs: out1=6, out2=12, out3=18
 
+## Simulation Waveform
+
+The waveform below demonstrates correct operation of the AI accelerator:
+
+* Inputs: x1 = 1, x2 = 2, x3 = 3
+* Outputs: out1 = 6, out2 = 12, out3 = 18
+* Initial delay due to pipelining is visible
+
+
 ## Author
 
 Eashanvi
