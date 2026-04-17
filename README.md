@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Hardware Accelerator (FPGA)
 
 ## Overview
@@ -25,3 +26,7 @@ Outputs: out1=6, out2=12, out3=18
 ## Author
 
 Eashanvi
+=======
+# AI-Hardware-Accelerator
+FPGA-based AI accelerator using Verilog (MAC, Layer, FSM, ROM)
+>>>>>>> dd74e5f159c8b4b0d7b5aa077a5fbb778344496d
